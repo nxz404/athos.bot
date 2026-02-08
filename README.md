@@ -12,24 +12,27 @@
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python Version">
 </p>
 
-<hr>
+---
 
 ## 📌 Sobre o Projeto
+
 O **athos.bot** foi desenvolvido para ser uma solução completa para servidores de Discord. Ele utiliza uma estrutura modular baseada em **Cogs**, facilitando a manutenção e a adição de novas funcionalidades.
 
 > **Nota:** O bot está em constante evolução e, atualmente, não utiliza componentes v2.
 
-<hr>
+---
 
 ## 📸 Demonstração
+
 <p align="center">
   <img src="URL_DO_PRINT_DO_BOT_FUNCIONANDO" alt="Preview do Bot" width="600" style="border-radius: 10px;">
   <br>
   <em>Exemplo de comandos e interface do bot em ação.</em>
 </p>
 
-<hr>
-##  ✨ Funcionalidades Principais
+---
+
+## ✨ Funcionalidades Principais
 
 | Módulo | Descrição |
 | :--- | :--- |
@@ -40,12 +43,14 @@ O **athos.bot** foi desenvolvido para ser uma solução completa para servidores
 | 🤝 **Parcerias** | Sistema automatizado para gerenciar parcerias entre servidores. |
 | 📖 **Guia** | Aba de auxílio para novos usuários entenderem as funções. |
 
-<hr>
-##  📄 Licença
+---
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
+## 📄 Licença
 
-<hr>
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
 <p align="center">
-Desenvolvido com ❤️ por <a href="https://www.google.com/search?q=https://github.com/nxz404">nxz404</a>
+Desenvolvido com ❤️ por <a href="https://github.com/nxz404">nxz404</a>
 </p>
