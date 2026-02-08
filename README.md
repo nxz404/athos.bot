@@ -1,7 +1,7 @@
-# 🤖 athos.bot
+# 💜🤍 athos.bot
 
 <p align="center">
-  <img src="URL_DA_SUA_LOGO_AQUI" alt="Logo athos.bot" width="200">
+  <img src="[URL_DA_SUA_LOGO_AQUI](https://cdn.discordapp.com/avatars/1429564793462984775/0c10bdb585b2c1798a26d8d9da4969fe.png?size=1024)" alt="Logo athos.bot" width="200">
   <br>
   <i>Um bot versátil para Discord construído com a biblioteca discord.py</i>
 </p>
