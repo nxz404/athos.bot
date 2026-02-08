@@ -21,7 +21,7 @@ O **athos.bot** foi desenvolvido para ser uma solução completa para servidores
 
 <hr>
 
-## 📸 Demonstração
+### 📸 Demonstração
 <p align="center">
   <img src="URL_DO_PRINT_DO_BOT_FUNCIONANDO" alt="Preview do Bot" width="600" style="border-radius: 10px;">
   <br>
