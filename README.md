@@ -14,7 +14,7 @@
 
 <hr>
 
-## 📌 Sobre o Projeto
+##📌 Sobre o Projeto
 O **athos.bot** foi desenvolvido para ser uma solução completa para servidores de Discord. Ele utiliza uma estrutura modular baseada em **Cogs**, facilitando a manutenção e a adição de novas funcionalidades.
 
 > **Nota:** O bot está em constante evolução e, atualmente, não utiliza componentes v2.
@@ -29,7 +29,7 @@ O **athos.bot** foi desenvolvido para ser uma solução completa para servidores
 </p>
 
 <hr>
-## ✨ Funcionalidades Principais
+##✨ Funcionalidades Principais
 
 | Módulo | Descrição |
 | :--- | :--- |
@@ -49,5 +49,3 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://www.
 <p align="center">
 Desenvolvido com ❤️ por <a href="https://www.google.com/search?q=https://github.com/nxz404">nxz404</a>
 </p>
-
-```
