@@ -29,7 +29,7 @@ O **athos.bot** foi desenvolvido para ser uma solução completa para servidores
 </p>
 
 <hr>
-## ✨ Funcionalidades Principais
+##  ✨ Funcionalidades Principais
 
 | Módulo | Descrição |
 | :--- | :--- |
@@ -41,7 +41,7 @@ O **athos.bot** foi desenvolvido para ser uma solução completa para servidores
 | 📖 **Guia** | Aba de auxílio para novos usuários entenderem as funções. |
 
 <hr>
-## 📄 Licença
+##  📄 Licença
 
 Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
 
