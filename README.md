@@ -1,4 +1,4 @@
-# 💜🤍 athos.bot
+<h1 align="center"><strong>🧸<ins>athos.bot</ins></strong></h1>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/avatars/1429564793462984775/0c10bdb585b2c1798a26d8d9da4969fe.png?size=1024" alt="Logo athos.bot" width="200">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/nxz404/athos.bot?style=for-the-badge" alt="Licença">
-  <img src="https://img.shields.io/github/stars/nxz404/athos.bot?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" alt="Python Version">
+  <img src="https://img.shields.io/github/license/nxz404/athos.bot?style=for-the-badge&color=black" alt="Licença">
+  <img src="https://img.shields.io/github/stars/nxz404/athos.bot?style=for-the-badge&color=white" alt="Stars">
+  <img src="https://img.shields.io/badge/Python-3.8+-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
 </p>
 
 ---
