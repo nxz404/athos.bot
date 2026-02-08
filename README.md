@@ -22,14 +22,6 @@ O **athos.bot** foi desenvolvido para ser uma solução completa para servidores
 
 ---
 
-## 📸 Demonstração
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1427009152160632872/1470137923302068432/image.png?ex=698a3422&is=6988e2a2&hm=e8194726555bdea58942560f0e9cb2a3c835ce87e46b57747c1e215a646dc27d" alt="Preview do Bot" width="600" style="border-radius: 10px;">
-</p>
-
----
-
 ## ✨ Funcionalidades Principais
 
 | Módulo | Descrição |
