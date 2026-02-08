@@ -53,7 +53,13 @@ O projeto foi construído utilizando as seguintes ferramentas e bibliotecas:
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença **MIT**. Isso significa que você é livre para usar, copiar e modificar o código, desde que mantenha os créditos originais.
+
+Consulte o arquivo [LICENSE](./LICENSE) para obter o texto completo da licença.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="MIT License">
+</p>
 
 ---
 
